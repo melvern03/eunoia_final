@@ -1,4 +1,4 @@
-# eunoia_final
+# Eunoia Cloud
 
 we can start my declaring our variable in google cloud
 
