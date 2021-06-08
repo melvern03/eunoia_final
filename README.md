@@ -2,8 +2,10 @@
 
 we can start my declaring our variable in google cloud
 
+```
 PROJECT_ID=$(gcloud config get-value core/project)
 REGION=us-central1
+```
 
 before we deploy our cloud run we need to make a sql instances to hold django database
 ```
